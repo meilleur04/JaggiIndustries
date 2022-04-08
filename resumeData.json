@@ -1,0 +1,46 @@
+{
+  "main": {
+    "name":"Jaggi Industries",
+    "description":"Manufacturer, Exporter & Supplier of All kinds of Submersible Pumps, Self Priming Monoblock Pumps, Super Suction Pumps, Shallow Well Pumps & Electric Motors.",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "whatwewanthere@gmail.com",
+    "phone": "08045478560",
+    "address":{
+      "street":"B-62, Mayapuri Industrial Area, Phase-II",
+      "city":"New Delhi",
+      "state":"Delhi",
+      "zip": "110018"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":"fa fa-github"
+      }
+    ]
+  }
+}
